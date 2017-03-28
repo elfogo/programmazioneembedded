@@ -1,3 +1,5 @@
+git init 		//nuova cartella git
+
 git status
 
 (tipi di file "untracked, ossia non tracciato, altrimenti o modificato (modificato ma non registrato) 
@@ -5,9 +7,16 @@ modificato, regoistrato quindit salavato in modod eprmanente nella storia)
 
 git add file 		//aggiunge il file allas toria 
 
-git commit 		//salva lo stato totale di tutte le cartelle e file
+git commit 		//salva lo stato totale di tutte le cartelle e file NB usando l'opzione -a fai il commit di tutto senza add 
+					(a parte i nuovi file che bisogna aggiungere a mano)
 
-git log 		//informazioni sull'attuale commit
+git log 		//informazioni sull'attuale commit e sui precedenti
 
 git diff		//ci dice cosa abbiamo modificato, quali righe e quante righe
+
+git checkout codice della versione 	//ripristinare status precedente 
+
+git checkout master 	//riportami sul branch più recente sul branch master 
+
+
 
