@@ -1,0 +1,11 @@
+git status
+
+(tipi di file "untracked, ossia non tracciato, altrimenti o modificato (modificato ma non registrato) 
+modificato, regoistrato quindit salavato in modod eprmanente nella storia)
+
+git add file 		//aggiunge il file allas toria 
+
+
+
+
+
