@@ -9,4 +9,5 @@ git commit 		//salva lo stato totale di tutte le cartelle e file
 
 git log 		//informazioni sull'attuale commit
 
+git diff		//ci dice cosa abbiamo modificato, quali righe e quante righe
 
